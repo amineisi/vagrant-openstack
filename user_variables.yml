@@ -1,3 +1,6 @@
+##
+lxc_hosts_container_image_url: "https://cdimage.ubuntu.com/ubuntu-base/releases/18.04/release/ubuntu-base-18.04.5-base-amd64.tar.gz"
+
 ## Ceilometer Options
 ceilometer_db_type: mongodb
 ceilometer_db_ip: localhost
